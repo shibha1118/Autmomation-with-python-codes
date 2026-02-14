@@ -1,0 +1,6 @@
+# int converstion to string str()
+print('the age of universe is ' + str(1000000000) + ' years old i guess')
+print('42'+'546')
+print(str(42)+'546')
+print(42+546)
+print(str(42)+str(546))
